@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.ExceptionHandling\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.ExceptionHandling.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.ExceptionHandling\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.ExceptionHandling.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.ExceptionHandling\src\obj\Debug\Common.Core.ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.ExceptionHandling\src\obj\Debug\USC.GISResearchLab.Common.Core.ExceptionHandling.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.ExceptionHandling\src\obj\Debug\USC.GISResearchLab.Common.Core.ExceptionHandling.pdb
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\ExceptionHandling\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\ExceptionHandling\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.ExceptionHandling.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\ExceptionHandling\Src\Main\obj\Debug\Common.Core.ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common\Core\ExceptionHandling\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\ExceptionHandling\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.ExceptionHandling.pdb
