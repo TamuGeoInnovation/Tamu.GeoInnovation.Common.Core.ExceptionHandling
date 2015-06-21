@@ -1,4 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common\Core\ExceptionHandling\Src\build\v1.1\bin\x86\release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\ExceptionHandling\Src\Main\obj\x86\Release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\ExceptionHandling\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\ExceptionHandling\Src\Main\obj\x86\Release\Common.Core.ExceptionHandling.csprojResolveAssemblyReference.cache
