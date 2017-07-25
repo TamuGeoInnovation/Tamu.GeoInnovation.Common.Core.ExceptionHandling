@@ -1,10 +1,10 @@
 D:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csprojResolveAssemblyReference.cache
 D:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
 D:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\SqlServerTypes\x64\msvcr100.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\SqlServerTypes\x64\SqlServerSpatial110.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\msvcr100.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
