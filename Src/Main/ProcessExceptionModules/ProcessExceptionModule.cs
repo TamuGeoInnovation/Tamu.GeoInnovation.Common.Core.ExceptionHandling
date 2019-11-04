@@ -22,7 +22,7 @@ namespace USC.GISResearchLab.Common.Exceptions.ProcessExceptionModules
         public string ExceptionType { get; set; }
         public string ExceptionReason { get; set; }
         public string ExceptionMessage { get; set; }
-        public string ExceptionStacktrace{ get; set; }
+        public string ExceptionStacktrace { get; set; }
         public int NumberOfErrors { get; set; }
         public int NumberOfRepeatedErrors { get; set; }
 
@@ -58,6 +58,6 @@ namespace USC.GISResearchLab.Common.Exceptions.ProcessExceptionModules
         {
         }
 
-       
+
     }
 }
