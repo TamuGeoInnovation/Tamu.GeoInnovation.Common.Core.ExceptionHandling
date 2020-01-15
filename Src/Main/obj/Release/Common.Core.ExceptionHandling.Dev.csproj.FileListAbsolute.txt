@@ -7,3 +7,7 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Relea
 C:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csprojAssemblyReference.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csproj.CoreCompileInputs.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
+D:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csprojAssemblyReference.cache
+D:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Common.Core.ExceptionHandling.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.ExceptionHandling\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.ExceptionHandling.dll
